@@ -1,0 +1,8 @@
+{
+  "name": "Web Quản lí lớp chủ nhiệm",
+  "description": "Hệ thống quản lý lớp chủ nhiệm trực tuyến kết nối Giáo viên chủ nhiệm, Phụ huynh và Học sinh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
